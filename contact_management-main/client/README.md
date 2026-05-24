@@ -23,8 +23,8 @@ MongoDB and Mongoose ORM
 # For Admin Access
 
 In this task only One Admin is there 
-For Login ---> emailD : kankineha@gmail.com   password : uniqueAdmin2025
-
+For Login ---> emailD : palakvaghela83@gmail.com   password : uniqueAdmin2025
+<!-- kankineha@gmail.com is actual-->
 
 # For Standard User
 
